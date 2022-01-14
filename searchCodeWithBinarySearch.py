@@ -17,9 +17,9 @@ def searchInsert(nums, target):
         mid = (left + right) // 2
         if target < nums[mid]:
             right = mid - 1
-        if target > nums[mid]:
+        elif target > nums[mid]:
             left = mid + 1
-        if target == nums[mid]:
+        else:
             return mid
-
+    return mid if target < nums[mid] else mid + 1
 print(searchInsert([1,3,5,6], 5))

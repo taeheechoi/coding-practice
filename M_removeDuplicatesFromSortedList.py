@@ -7,23 +7,15 @@
 # Output: [1,2,3]
 
 def removeDuplicatesFromSortedList(head):
-    pointer = head
-    while pointer and pointer.next:
-        if pointer.next == pointer.val:
-            pointer.next == pointer.next.next
+    slow = head
+    while slow and slow.next:
+        if slow.next.val==slow.val:
+            slow.next=slow.next.next
         else:
-            pointer = pointer.next
-    return pointer
+            slow = slow.next
+    return head
 
-print(removeDuplicatesFromSortedList([1,1,2,3,3]))
-
-
+print(removeDuplicatesFromSortedList(head = [1,1,2,3,3]))
 
 
-# slow = head
-# while slow and slow.next:
-# 	if slow.next.val==slow.val:
-# 		slow.next=slow.next.next
-# 	else:
-# 		slow = slow.next
-# return head
+

@@ -5,6 +5,6 @@ def singleNumber(nums):
             count[num] = 1
         else:
             count[num] += 1
-    print(sorted(count)[0])
+    
 
 singleNumber([2, 2, 1])    
