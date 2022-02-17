@@ -73,14 +73,14 @@
 | [] |234|Palindrome Linked List|Easy|Facebook|
 | [] |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
 | [] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
-| [] |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
-| [] |252|Meeting Rooms|Easy|Facebook|
-| [] |253|Meeting Rooms II|Medium|Google, Facebook|
-| [] |257|Binary Tree Paths|Easy|Google, Facebook|
-| [] |261|Graph Valid Tree|Medium|Google, Facebook|
+| [R] |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
+| [L] |252|Meeting Rooms|Easy|Facebook|
+| [L] |253|Meeting Rooms II|Medium|Google, Facebook|
+| [R] |257|Binary Tree Paths|Easy|Google, Facebook|
+| [L] |261|Graph Valid Tree|Medium|Google, Facebook|
 | [] |265|Paint House II|Hard|Facebook|
 | [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook|
-| [R] |273|Integer to English Words|Hard|Facebook|
+| [F] |273|Integer to English Words|Hard|Facebook|
 | [Q?] |274|H-Index|Medium|Google, Facebook|
 | [L] |275|H-Index II|Medium|Facebook|
 | [] |277|Find the Celebrity|Medium|LinkedIn, Facebook|
