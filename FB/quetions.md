@@ -71,8 +71,8 @@
 | [] |218|The Skyline Problem|Hard|Google, Facebook|
 | [] |221|Maximal Square|Medium|Airbnb, Facebook|
 | [] |234|Palindrome Linked List|Easy|Facebook|
-| [] |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
-| [] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
+| [O] |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
+| [R] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
 | [R] |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
 | [L] |252|Meeting Rooms|Easy|Facebook|
 | [L] |253|Meeting Rooms II|Medium|Google, Facebook|
