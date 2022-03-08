@@ -63,14 +63,14 @@
 | [] |199|Binary Tree Right Side View|Medium|Facebook|
 | [] |200|Number of Islands|Medium|Google, Facebook|
 | [] |206|Reverse Linked List|Easy|Uber, Facebook|
-| [] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook|
+| [R] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook|
 | [] |209|Minimum Size Subarray Sum|Medium|Facebook|
 | [] |210|Course Schedule II|Medium|Facebook|
-| [] |211|Add and Search Word - Data structure design|Medium|Facebook|
-| [] |215|Kth Largest Element in an Array|Medium|Facebook|
-| [] |218|The Skyline Problem|Hard|Google, Facebook|
-| [] |221|Maximal Square|Medium|Airbnb, Facebook|
-| [] |234|Palindrome Linked List|Easy|Facebook|
+| [F] |211|Add and Search Word - Data structure design|Medium|Facebook|
+| [R] |215|Kth Largest Element in an Array|Medium|Facebook|
+| [Hard] |218|The Skyline Problem|Hard|Google, Facebook|
+| [F] |221|Maximal Square|Medium|Airbnb, Facebook|
+| [O] |234|Palindrome Linked List|Easy|Facebook|
 | [O] |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
 | [R] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
 | [R] |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
