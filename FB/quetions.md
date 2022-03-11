@@ -60,12 +60,12 @@
 | [] |161|One Edit Distance|Medium|Uber, Facebook|
 | [] |168|Excel Sheet Column Title|Easy|Facebook|
 | [] |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
-| [] |199|Binary Tree Right Side View|Medium|Facebook|
-| [] |200|Number of Islands|Medium|Google, Facebook|
-| [] |206|Reverse Linked List|Easy|Uber, Facebook|
+| [30%] |199|Binary Tree Right Side View|Medium|Facebook|
+| [70%] |200|Number of Islands|Medium|Google, Facebook|
+| [80%] |206|Reverse Linked List|Easy|Uber, Facebook|
 | [R] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook|
-| [] |209|Minimum Size Subarray Sum|Medium|Facebook|
-| [] |210|Course Schedule II|Medium|Facebook|
+| [50%] |209|Minimum Size Subarray Sum|Medium|Facebook|
+| [F] |210|Course Schedule II|Medium|Facebook|
 | [F] |211|Add and Search Word - Data structure design|Medium|Facebook|
 | [R] |215|Kth Largest Element in an Array|Medium|Facebook|
 | [Hard] |218|The Skyline Problem|Hard|Google, Facebook|
