@@ -15,15 +15,17 @@
 class Solution:
     from collections import Counter
     def isValid(self, s: str) -> bool:
-        r = []
-        d = {')': '(', ']': '[', '}': '{'}
-        
+        stack = []
+        d = {'(':')', '{': '}', '[':']'}
         for char in s:
-            if char in d.values():
-                r.append(char)
-            elif char in d.keys():
-                if len(r) ==0: return False
-                elif r.pop() != d[char]:
+            if char in d.keys():
+                stack.append(d[char])
+            elif char in d.values():
+                if len(stack) == 0: return False
+                if stack.pop() != char:
                     return False
-        return len(r) == 0
+
+        return len(stack) == 0
             
+
+
